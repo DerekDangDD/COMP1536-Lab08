@@ -1,0 +1,26 @@
+{
+  "Pokemon" : {
+    "Bulbasaur" : {
+      "ID" : 1
+    },
+    "Charmander" : {
+      "Generation" : 1,
+      "ID" : "004",
+      "Regional Numbers" : {
+        "Central" : "083",
+        "Johto" : "234",
+        "Kanto" : "004"
+      },
+      "Type" : "Fire",
+      "Description" : "I am charmander",
+      "Image" : {
+        "picture1" : "url1",
+        "picture2" : "url2",
+        "picture3" : "url3",
+      }
+    },
+    "Squrtile" : {
+      "ID" : 7
+    }
+  }
+}
